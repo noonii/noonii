@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:333333&height=120&section=header&text=&animation=fadeIn" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:333333&height=120&section=header&text=&animation=fadeIn" alt="Header banner" />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn"" alt="Header banner" />
   <br/>
   <img src="assets/atiq-logo-github.com-noonii.png" width="180" alt="Atiq Rahman logo" />
   <br/>
@@ -72,10 +68,5 @@ Production systems end-to-end, from distributed infrastructure and BFF APIs to t
 <br/>
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:0d0d0d&height=80&section=footer" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:0d0d0d&height=80&section=footer" alt="Footer banner" />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" alt="Footer banner" />
 </div>
