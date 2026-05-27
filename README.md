@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:333333&height=120&section=header&text=&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn" alt="" />
+</picture>
 
 <br/>
 
@@ -24,7 +28,7 @@ If you're reading this as a collaborator, hiring manager, or fellow engineer loo
 
 ### What I Work On
 
-Production systems end-to-end: from distributed infrastructure and BFF APIs to the UI that sits on top of it. I lead and mentor frontend engineers, drive cross-functional alignment to ship 0→1 products, and own the build-vs-buy calls that shape how teams move long-term.
+Production systems end-to-end: from distributed infrastructure and BFF APIs to the UI that sits on top of it. I lead and mentor frontend engineers, drive cross-functional alignment to ship 0→1 products, instrumentation & observability, and own the build-vs-buy calls that shape how teams move long-term.
 
 <div align="center">
 <img width="25%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
@@ -34,9 +38,17 @@ Production systems end-to-end: from distributed infrastructure and BFF APIs to t
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=noonii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=stars" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noonii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=stars" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=noonii&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=noonii&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=stars" alt="Atiq's GitHub stats" />
+</picture>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonii&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noonii&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noonii&theme=default&hide_border=true&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonii&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact" alt="Top languages" />
+</picture>
 
 </div>
 
@@ -74,6 +86,10 @@ Production systems end-to-end: from distributed infrastructure and BFF APIs to t
 
 <sub>Best viewed with the context that most of the interesting work isn't here.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:0d0d0d&height=80&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" alt="" />
+</picture>
 
 </div>
