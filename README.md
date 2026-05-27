@@ -16,19 +16,15 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
-
 ### About
 
 The bulk of my engineering time lives with company accounts and in-house repos.
 
 If you're reading this as a collaborator, hiring manager, or fellow engineer looking to connect: **[atiqrahman.work](https://atiqrahman.work?utm_source=github&utm_medium=profile_readme&utm_campaign=about_section&utm_content=inline_link)** is the better signal.
 
-<img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
-
 ### What I Work On
 
-Production systems end-to-end — from distributed infrastructure and BFF APIs to the UI that sits on top of it. I lead and mentor frontend engineers, drive cross-functional alignment to ship 0→1 products, and own the build-vs-buy calls that shape how teams move long-term.
+Production systems end-to-end: from distributed infrastructure and BFF APIs to the UI that sits on top of it. I lead and mentor frontend engineers, drive cross-functional alignment to ship 0→1 products, and own the build-vs-buy calls that shape how teams move long-term.
 
 <img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
 
@@ -47,8 +43,6 @@ Production systems end-to-end — from distributed infrastructure and BFF APIs t
 <img src="https://github-readme-streak-stats.herokuapp.com?user=noonii&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
-
-<img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
 
 ### Activity
 
