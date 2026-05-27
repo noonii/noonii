@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/logo.png" width="180" alt="Atiq Rahman logo" />
+<img src="assets/atiq-logo-github.com-noonii.png" width="180" alt="Atiq Rahman logo" />
 
 <br/>
 
