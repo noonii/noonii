@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:4a1a8a,100:8b7fd4&height=120&section=header&text=&animation=fadeIn" />
 
 <br/>
 
@@ -26,7 +26,9 @@ If you're reading this as a collaborator, hiring manager, or fellow engineer loo
 
 Production systems end-to-end: from distributed infrastructure and BFF APIs to the UI that sits on top of it. I lead and mentor frontend engineers, drive cross-functional alignment to ship 0→1 products, and own the build-vs-buy calls that shape how teams move long-term.
 
-<img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
+<div align="center">
+<img width="25%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
+</div>
 
 ### Stats
 
@@ -52,7 +54,9 @@ Production systems end-to-end: from distributed infrastructure and BFF APIs to t
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
+<div align="center">
+<img width="25%" src="https://raw.githubusercontent.com/noonii/noonii/main/assets/divider.svg" alt="" />
+</div>
 
 ### Connect
 
@@ -60,7 +64,7 @@ Production systems end-to-end: from distributed infrastructure and BFF APIs to t
 
 [![Website](https://img.shields.io/badge/Website-atiqrahman.work-white?style=flat-square&logo=safari&logoColor=black&labelColor=ffffff&color=ffffff)](https://atiqrahman.work?utm_source=github&utm_medium=profile_readme&utm_campaign=connect_section&utm_content=website_badge)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atiqrahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atiq-r)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@atiqrahman.work)
 
@@ -70,8 +74,6 @@ Production systems end-to-end: from distributed infrastructure and BFF APIs to t
 
 <sub>Best viewed with the context that most of the interesting work isn't here.</sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd4,50:4a1a8a,100:1a0a2e&height=80&section=footer" />
 
 </div>
